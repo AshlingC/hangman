@@ -1,1 +1,7 @@
-A project I created using pygame, this project was made for learning purposes but I am happy with it.
+Install from zip
+Extract the file
+cd into the directory it was installed in
+pip install -r requirements.txt
+python hangman.py
+
+This project was created for learning purposes but I am happy with it.
